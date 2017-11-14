@@ -4,6 +4,8 @@
 
 - [My $169 development Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/)
 - [Using a Chromebook for Web Development](https://blog.miguelgrinberg.com/post/using-a-chromebook-for-web-development)
+- [Ultimate guide for Web Development on Chromebook — Part 1: Crouton](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d)
+- [Install Nodejs and npm on ChromeBook](https://medium.com/@dihuta/install-nodejs-on-chromebook-c17677874d81)
 - [Developing Android Apps Right On Your Chromebook](https://chromeunboxed.com/develop-android-apps-chromebook/)
 
 ## Videos
