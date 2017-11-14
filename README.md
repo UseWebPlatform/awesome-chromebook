@@ -62,11 +62,14 @@
 ### Others
 
 - [Focus](https://9to5google.com/2017/11/13/focus-chrome-extension-internet-distractions/) - Transform your browser from a source of distraction into a tool for focusing.
+- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Enhance your written communication everywhere you type!
 - [Cherry Tomato](https://chrome.google.com/webstore/detail/cherry-tomato/cghomilbbfdmgfidkdinillpmdpdjgmm) - Pomodoro Technique.
+- [Noisli](https://www.noisli.com) - Mix different sounds and create your perfect environment.
 - [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Custom themes for any website.
 - [Toby Mini](https://chrome.google.com/webstore/detail/toby-mini/gfdcgfhkelkdmglklfbndgopaihmoeci) - “I don’t want to have 3,000 tabs open anymore”.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient blocker: easy on memory and CPU footprint.
 - [uProxy](https://www.uproxy.org)
+- [ZenHub for GitHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Project Management Inside GitHub.
 
 ## Windows Apps
 
