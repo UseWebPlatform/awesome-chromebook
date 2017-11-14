@@ -62,7 +62,7 @@
 ### GitHub
 
 - [Octobox](https://octobox.io) - Take back control of your GitHub notifications.
-- [ZenHub for GitHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Project Management Inside GitHub.
+- [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Project Management Inside GitHub.
 
 ### Chat
 
