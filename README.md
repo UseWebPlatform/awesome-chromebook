@@ -28,6 +28,11 @@
   - [Create an Isometric Illustration in Gravit Designer](https://medium.com/gravitdesigner/create-an-isometric-illustration-in-gravit-designer-ef5effc0382f)
   - [Going Material with Gravit Designer](https://medium.com/gravitdesigner/going-material-with-gravit-designer-ee2073fa507b)
 
+#### SVG Editors
+
+- [Boxy SVG](https://boxy-svg.com)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+
 ### Photoshop Alternatives
 
 - [Photopea](https://www.photopea.com)
@@ -48,11 +53,6 @@
 ### Browser Testing
 
 - [BrowserStack](https://www.browserstack.com)
-
-### SVG Editors
-
-- [Boxy SVG](https://boxy-svg.com)
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
 ### Web Testing
 
