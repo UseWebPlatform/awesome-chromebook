@@ -110,10 +110,6 @@
 
 - [Run Windows Apps On Your Chromebook With Crossover](https://chromeunboxed.com/news/run-windows-apps-on-your-chromebook-with-crossover-sort-of/)
 
-## Linux distros
-
-- [GalliumOS](https://galliumos.org)
-
 ## WebAssembly
 
 - [Why WebAssembly is a game changer for the web](https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb)
@@ -124,7 +120,7 @@
 
 - [Acer Chromebook 15 Unboxing & Hands On](https://chromeunboxed.com/acer-chromebook-15-unboxing-hands-on/)
 
-## Chromium OS on other HW
+## Chromium OS on any PC (without Android apps and with low security!)
 
 - [CloudReady](https://www.neverware.com)
   - [Google invested in Neverware, a company that (sort of) puts Chrome OS on aging computers](https://9to5google.com/2017/10/11/google-neverware-cloud-ready-investment/)
