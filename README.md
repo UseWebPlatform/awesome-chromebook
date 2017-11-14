@@ -22,8 +22,18 @@
 
 ## Android Apps
 
-- [From Adobe](https://play.google.com/store/apps/dev?id=4734916851270416020)
-- [From Google](https://play.google.com/store/apps/dev?id=5700313618786177705)
+- [Adobe Apps](https://play.google.com/store/apps/dev?id=4734916851270416020)
+- [Apple Apps](https://play.google.com/store/apps/developer?id=Apple+Inc.)
+- [Google Apps](https://play.google.com/store/apps/dev?id=5700313618786177705)
+- [Microsoft Apps](https://play.google.com/store/apps/dev?id=6720847872553662727)
+- [Mozilla Apps](https://play.google.com/store/apps/developer?id=Mozilla)
+
+## Android Games
+
+- [ELECTRONIC ARTS Games](https://play.google.com/store/apps/dev?id=6605125519975771237)
+- [Gameloft Games](https://play.google.com/store/apps/dev?id=6258770168633898802)
+- [LEGO Games](https://play.google.com/store/apps/dev?id=5382307214726356149)
+- [Ubisoft Games](https://play.google.com/store/apps/dev?id=4647998716943242763)
 
 ## Web Apps
 
@@ -74,9 +84,9 @@
 
 ### Office
 
-- [Google Docs](https://www.google.com/docs/about/)
+- [Free Google Docs](https://www.google.com/docs/about/)
   - [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj)
-- [Free MS Office Online apps](https://products.office.com/en-us/office-online/documents-spreadsheets-presentations-office-online)
+- [Free Microsoft Office Online apps](https://products.office.com/en-us/office-online/documents-spreadsheets-presentations-office-online)
   - [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb) - View, edit, and create Office files in your browser.
   - [Office Apps](https://chrome.google.com/webstore/search/office?_category=apps)
 
@@ -103,6 +113,12 @@
 ## Linux distros
 
 - [GalliumOS](https://galliumos.org)
+
+## WebAssembly
+
+- [Why WebAssembly is a game changer for the web](https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb)
+- [WebAssembly for Native Games on the Web](https://hacks.mozilla.org/2017/07/webassembly-for-native-games-on-the-web/)
+- [Unity 5.6 was announced with experimental support for WebAssembly](https://www.reddit.com/r/javascript/comments/62vrfk/unity_56_was_announced_with_experimental_support/)
 
 ## Chromebooks
 
