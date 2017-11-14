@@ -20,6 +20,11 @@
 - [Chromebook YouTube channel](https://www.youtube.com/channel/UCp-kwKlknwsPu4diieeFz1A/playlists)
 - [Chrome YouTube channel](https://www.youtube.com/user/googlechrome/videos)
 
+## Android Apps
+
+- [From Adobe](https://play.google.com/store/apps/dev?id=4734916851270416020)
+- [From Google](https://play.google.com/store/apps/dev?id=5700313618786177705)
+
 ## Web Apps
 
 ### Illustrator Alternatives
@@ -54,6 +59,25 @@
 
 - [BrowserStack](https://www.browserstack.com)
 
+### GitHub
+
+- [Octobox](https://octobox.io) - Take back control of your GitHub notifications.
+- [ZenHub for GitHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Project Management Inside GitHub.
+
+### Chat
+
+- [Discord](https://discordapp.com)
+- [Gitter](https://gitter.im)
+- [Slack](https://slack.com)
+
+### Office
+
+- [Google Docs](https://www.google.com/docs/about/)
+  - [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj)
+- [Free MS Office Online apps](https://products.office.com/en-us/office-online/documents-spreadsheets-presentations-office-online)
+  - [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb) - View, edit, and create Office files in your browser.
+  - [Office Apps](https://chrome.google.com/webstore/search/office?_category=apps)
+
 ### Web Testing
 
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Automated tool for improving the performance, quality, and correctness of your web apps.
@@ -69,7 +93,6 @@
 - [Toby Mini](https://chrome.google.com/webstore/detail/toby-mini/gfdcgfhkelkdmglklfbndgopaihmoeci) - “I don’t want to have 3,000 tabs open anymore”.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient blocker: easy on memory and CPU footprint.
 - [uProxy](https://www.uproxy.org) - Your private access to the open internet.
-- [ZenHub for GitHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Project Management Inside GitHub.
 
 ## Windows Apps
 
