@@ -13,7 +13,7 @@
 
 ## Web Apps
 
-### Adobe Illustrator Alternatives
+### Illustrator Alternatives
 
 - [Gravit Designer](https://designer.io)
   - [Create an Isometric Illustration in Gravit Designer](https://medium.com/gravitdesigner/create-an-isometric-illustration-in-gravit-designer-ef5effc0382f)
@@ -22,15 +22,40 @@
 ### Photoshop Alternatives
 
 - [Photopea](https://www.photopea.com)
+- [Polarr](https://www.polarr.co)
 
 ### Sketch Alternatives
 
 - [Figma](https://www.figma.com)
+- [Marvel](https://marvelapp.com)
+- [Proto](https://proto.io)
+- [Fluid](https://www.fluidui.com)
+- [UXPin](https://www.uxpin.com)
+
+### API development
+
+- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+
+### Browser Testing
+
+- [BrowserStack](https://www.browserstack.com)
 
 ### SVG Editors
 
 - [Boxy SVG](https://boxy-svg.com)
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
+
+### Web Testing
+
+- [Lighthouse - automated tool for improving the performance, quality, and correctness of your web apps](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+- [WebPagetest - Website Performance and Optimization Test](https://www.webpagetest.org)
+
+### Others
+
+- [Cherry Tomato](https://chrome.google.com/webstore/detail/cherry-tomato/cghomilbbfdmgfidkdinillpmdpdjgmm)
+- [Stylish - Custom themes for any website](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [uProxy](https://www.uproxy.org)
 
 ## Windows Apps
 
