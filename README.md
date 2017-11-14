@@ -39,3 +39,7 @@
 ## Linux distros
 
 - [GalliumOS](https://galliumos.org)
+
+## Chromebooks
+
+- [Acer Chromebook 15 Unboxing & Hands On](https://chromeunboxed.com/acer-chromebook-15-unboxing-hands-on/)
