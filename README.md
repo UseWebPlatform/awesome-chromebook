@@ -46,12 +46,14 @@
 ### Sketch Alternatives
 
 - [Figma](https://www.figma.com)
+  - [Material Design Kit](https://www.figma.com/file/jrPPBLsqRzBPbMwrqkJv9S/Google-Material-Design)
 - [Marvel](https://marvelapp.com)
 - [Proto](https://proto.io)
 - [Fluid](https://www.fluidui.com)
 - [UXPin](https://www.uxpin.com)
+  - [Material Design UI Kit](https://www.uxpin.com/material-design-ui-kit)
 
-### API development
+### API Development
 
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
 
