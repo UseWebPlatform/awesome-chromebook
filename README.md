@@ -77,3 +77,7 @@
 ## Chromebooks
 
 - [Acer Chromebook 15 Unboxing & Hands On](https://chromeunboxed.com/acer-chromebook-15-unboxing-hands-on/)
+
+## Chromium OS on other HW
+
+- [CloudReady](https://www.neverware.com)
