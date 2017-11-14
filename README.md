@@ -2,6 +2,18 @@
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
+- [Guides](#guides)
+- [Security on the first place](#security-on-the-first-place)
+- [Videos](#videos)
+- [Android Apps](#android-apps)
+- [Android Games](#android-games)
+- [Web Apps](#web-apps)
+- [Windows Apps](#windows-apps)
+- [WebAssembly](#webassembly)
+- [Chromebooks](#chromebooks)
+
+## Guides
+
 - [My $169 development Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/)
 - [Using a Chromebook for Web Development](https://blog.miguelgrinberg.com/post/using-a-chromebook-for-web-development)
 - [Ultimate guide for Web Development on Chromebook — Part 1: Crouton](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d)
@@ -118,9 +130,5 @@
 
 ## Chromebooks
 
+- [Google Pixelbook](https://www.google.cz/search?q=pixelbook)
 - [Acer Chromebook 15 Unboxing & Hands On](https://chromeunboxed.com/acer-chromebook-15-unboxing-hands-on/)
-
-## Chromium OS on any PC (without Android apps and with low security!)
-
-- [CloudReady](https://www.neverware.com)
-  - [Google invested in Neverware, a company that (sort of) puts Chrome OS on aging computers](https://9to5google.com/2017/10/11/google-neverware-cloud-ready-investment/)
