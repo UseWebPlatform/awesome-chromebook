@@ -81,3 +81,4 @@
 ## Chromium OS on other HW
 
 - [CloudReady](https://www.neverware.com)
+  - [Google invested in Neverware, a company that (sort of) puts Chrome OS on aging computers](https://9to5google.com/2017/10/11/google-neverware-cloud-ready-investment/)
