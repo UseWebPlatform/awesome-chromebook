@@ -68,7 +68,7 @@
 - [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Custom themes for any website.
 - [Toby Mini](https://chrome.google.com/webstore/detail/toby-mini/gfdcgfhkelkdmglklfbndgopaihmoeci) - “I don’t want to have 3,000 tabs open anymore”.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient blocker: easy on memory and CPU footprint.
-- [uProxy](https://www.uproxy.org)
+- [uProxy](https://www.uproxy.org) - Your private access to the open internet.
 - [ZenHub for GitHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Project Management Inside GitHub.
 
 ## Windows Apps
