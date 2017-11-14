@@ -8,7 +8,7 @@
 - [Install Nodejs and npm on ChromeBook](https://medium.com/@dihuta/install-nodejs-on-chromebook-c17677874d81)
 - [Developing Android Apps Right On Your Chromebook](https://chromeunboxed.com/develop-android-apps-chromebook/)
 
-## Security
+## Security on the first place
 
 - [Chromebook security](https://support.google.com/chromebook/answer/3438631)
 - [Chromebook How To: Viruses, Malware and Chrome OS Security](https://chromeunboxed.com/chromebook-how-to-viruses-malware-and-chrome-os-security/)
