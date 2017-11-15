@@ -4,6 +4,7 @@
 
 - [Guides](#guides)
 - [Security on the first place](#security-on-the-first-place)
+- [Offline mode](#offline-mode)
 - [Videos](#videos)
 - [Android Apps](#android-apps)
 - [Android Games](#android-games)
@@ -27,6 +28,11 @@
 - [Security of Google Chromebook](http://dhanus.mit.edu/docs/ChromeOSSecurity.pdf)
 - [2 handy yet hidden Chromebook security features](https://www.computerworld.com/article/3201944/chrome-os/chromebook-security-features.html)
 
+## Offline mode
+
+- [Use your Chromebook offline](https://support.google.com/chromebook/answer/3214688)
+- [Work on Google Drive files offline on your Chromebook](https://support.google.com/chromebook/answer/2809731)
+
 ## Videos
 
 - [Chromebook YouTube channel](https://www.youtube.com/channel/UCp-kwKlknwsPu4diieeFz1A/playlists)
@@ -48,6 +54,15 @@
 - [Ubisoft Games](https://play.google.com/store/apps/dev?id=4647998716943242763)
 
 ## Web Apps
+
+- [Best Chrome Apps](https://www.tomsguide.com/us/pictures-story/611-best-chrome-apps.html)
+
+### Offline Apps
+
+- [Offline apps in Chrome Web Store](https://chrome.google.com/webstore/category/apps?_feature=offline)
+- [Offline collection in Chrome Web Store](https://chrome.google.com/webstore/category/collection/offline_enabled)
+- [VLC media player](https://chrome.google.com/webstore/detail/vlc/obpdeolnggmbekmklghapmfpnfhpcndf)
+- [Draw.io](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla) - Completely free diagram editor.
 
 ### Illustrator Alternatives
 
