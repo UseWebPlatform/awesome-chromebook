@@ -98,6 +98,10 @@
 
 - [BrowserStack](https://www.browserstack.com)
 
+### Continuous Integration
+
+- [CircleCI](https://circleci.com)
+
 ### GitHub
 
 - [Octobox](https://octobox.io) - Take back control of your GitHub notifications.
