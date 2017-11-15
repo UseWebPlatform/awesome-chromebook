@@ -100,7 +100,7 @@
 
 - [BrowserStack](https://www.browserstack.com)
 
-### Continuous Integration
+### Continuous Integration and Delivery
 
 - [CircleCI](https://circleci.com)
 
