@@ -118,7 +118,7 @@
 ### Office
 
 - [Free Google Docs](https://www.google.com/docs/about/)
-  - [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - View and edit Microsoft Word, Excel, and PowerPoint files -- without needing Office installed on your computer.
+  - [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - View and edit Microsoft Word, Excel, and PowerPoint files - without needing Office installed on your computer.
   - This extension is already installed on Chromebook by default.
 - [Free Microsoft Office Online apps](https://products.office.com/en-us/office-online/documents-spreadsheets-presentations-office-online)
   - [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb) - View, edit, and create Office files in your browser.
