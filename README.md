@@ -59,10 +59,12 @@
 
 ### Offline Apps
 
-- [Offline apps in Chrome Web Store](https://chrome.google.com/webstore/category/apps?_feature=offline)
-- [Offline collection in Chrome Web Store](https://chrome.google.com/webstore/category/collection/offline_enabled)
-- [VLC media player](https://chrome.google.com/webstore/detail/vlc/obpdeolnggmbekmklghapmfpnfhpcndf)
 - [Draw.io](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla) - Completely free diagram editor.
+- [Google Keep - notes and lists](https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki)
+- [VLC media player](https://chrome.google.com/webstore/detail/vlc/obpdeolnggmbekmklghapmfpnfhpcndf)
+- [Offline apps in Chrome Web Store](https://chrome.google.com/webstore/category/apps?_feature=offline)
+- [Offline apps collection in Chrome Web Store](https://chrome.google.com/webstore/category/collection/offline_enabled)
+
 
 ### Illustrator Alternatives
 
@@ -116,7 +118,8 @@
 ### Office
 
 - [Free Google Docs](https://www.google.com/docs/about/)
-  - [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj)
+  - [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - View and edit Microsoft Word, Excel, and PowerPoint files -- without needing Office installed on your computer.
+  - This extension is already installed on Chromebook by default.
 - [Free Microsoft Office Online apps](https://products.office.com/en-us/office-online/documents-spreadsheets-presentations-office-online)
   - [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb) - View, edit, and create Office files in your browser.
   - [Office Apps](https://chrome.google.com/webstore/search/office?_category=apps)
