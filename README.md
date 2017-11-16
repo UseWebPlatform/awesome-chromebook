@@ -40,6 +40,7 @@
 
 ## Android Apps
 
+- [Termux](https://github.com/termux/termux-app) - Terminal emulator and Linux environment app.
 - [Adobe Apps](https://play.google.com/store/apps/dev?id=4734916851270416020)
 - [Apple Apps](https://play.google.com/store/apps/developer?id=Apple+Inc.)
 - [Google Apps](https://play.google.com/store/apps/dev?id=5700313618786177705)
@@ -56,6 +57,7 @@
 ## Web Apps
 
 - [Best Chrome Apps](https://www.tomsguide.com/us/pictures-story/611-best-chrome-apps.html)
+- [Developer Tools in Chrome Web Store](https://chrome.google.com/webstore/category/app/11-web-development)
 
 ### Offline Apps
 
@@ -64,7 +66,6 @@
 - [VLC media player](https://chrome.google.com/webstore/detail/vlc/obpdeolnggmbekmklghapmfpnfhpcndf)
 - [Offline apps in Chrome Web Store](https://chrome.google.com/webstore/category/apps?_feature=offline)
 - [Offline apps collection in Chrome Web Store](https://chrome.google.com/webstore/category/collection/offline_enabled)
-
 
 ### Illustrator Alternatives
 
@@ -135,10 +136,12 @@
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Enhance your written communication everywhere you type!
 - [Cherry Tomato](https://chrome.google.com/webstore/detail/cherry-tomato/cghomilbbfdmgfidkdinillpmdpdjgmm) - Pomodoro Technique.
 - [Noisli](https://www.noisli.com) - Mix different sounds and create your perfect environment.
+- [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo) - Xterm-compatible terminal emulator and stand-alone ssh client.
 - [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Custom themes for any website.
 - [Toby Mini](https://chrome.google.com/webstore/detail/toby-mini/gfdcgfhkelkdmglklfbndgopaihmoeci) - “I don’t want to have 3,000 tabs open anymore”.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient blocker: easy on memory and CPU footprint.
 - [uProxy](https://www.uproxy.org) - Your private access to the open internet.
+- [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 
 ## Windows Apps
 
