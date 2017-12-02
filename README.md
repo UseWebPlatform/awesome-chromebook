@@ -3,6 +3,7 @@
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
 - [Guides](#guides)
+- [DevTools](#devtools)
 - [Security on the first place](#security-on-the-first-place)
 - [Offline mode](#offline-mode)
 - [Videos](#videos)
@@ -20,6 +21,16 @@
 - [Ultimate guide for Web Development on Chromebook — Part 1: Crouton](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d)
 - [Install Nodejs and npm on ChromeBook](https://medium.com/@dihuta/install-nodejs-on-chromebook-c17677874d81)
 - [Developing Android Apps Right On Your Chromebook](https://chromeunboxed.com/develop-android-apps-chromebook/)
+- [30 Chrome extensions for web designers and devs](http://www.creativebloq.com/web-design/google-chrome-extensions-21410570)
+- [27 Handy Chrome OS Commands to Run in Crosh](https://beebom.com/chrome-os-commands-run-crosh/)
+- [40 Chromebook tips for maximum productivity](https://www.computerworld.com/article/3237230/chromebooks/chromebook-tips-for-maximum-productivity.html)
+
+## DevTools
+
+- [What's New in DevTools](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBDSojZWBv4QJNoT4GNYzQD)
+- [DevTools Tips](https://umaar.com/dev-tips/)
+- [DevTools: State of the Union 2017 (Google I/O '17)](https://www.youtube.com/watch?v=PjjlwAvV8Jg)
+- [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
 
 ## Security on the first place
 
@@ -35,6 +46,7 @@
 
 ## Videos
 
+- [Chromebook + Creators](https://www.youtube.com/playlist?list=PLVy7dVK2S_UJwkuF4m3jKnSKeWzWy_Wrf)
 - [Chromebook YouTube channel](https://www.youtube.com/channel/UCp-kwKlknwsPu4diieeFz1A/playlists)
 - [Chrome YouTube channel](https://www.youtube.com/user/googlechrome/videos)
 
@@ -132,9 +144,12 @@
 
 ### Others
 
+- [Beagle Term](https://chrome.google.com/webstore/detail/beagle-term/gkdofhllgfohlddimiiildbgoggdpoea) - Serial terminal emulator.
+- [DomFlags](http://domflags.com) - Create keyboard shortcuts to dom elements.
 - [Focus](https://9to5google.com/2017/11/13/focus-chrome-extension-internet-distractions/) - Transform your browser from a source of distraction into a tool for focusing.
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Enhance your written communication everywhere you type!
 - [Cherry Tomato](https://chrome.google.com/webstore/detail/cherry-tomato/cghomilbbfdmgfidkdinillpmdpdjgmm) - Pomodoro Technique.
+- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) - Access other computers or allow another user to access your computer securely over the Internet.
 - [Noisli](https://www.noisli.com) - Mix different sounds and create your perfect environment.
 - [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo) - Xterm-compatible terminal emulator and stand-alone ssh client.
 - [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Custom themes for any website.
