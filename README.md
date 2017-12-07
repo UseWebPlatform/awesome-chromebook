@@ -149,7 +149,7 @@
 - [Focus](https://9to5google.com/2017/11/13/focus-chrome-extension-internet-distractions/) - Transform your browser from a source of distraction into a tool for focusing.
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Enhance your written communication everywhere you type!
 - [Cherry Tomato](https://chrome.google.com/webstore/detail/cherry-tomato/cghomilbbfdmgfidkdinillpmdpdjgmm) - Pomodoro Technique.
-- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) - Access other computers or allow another user to access your computer securely over the Internet.
+- [Chrome Remote Desktop](https://remotedesktop.google.com) - Access other computers or allow another user to access your computer securely over the Internet.
 - [Noisli](https://www.noisli.com) - Mix different sounds and create your perfect environment.
 - [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo) - Xterm-compatible terminal emulator and stand-alone ssh client.
 - [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Custom themes for any website.
