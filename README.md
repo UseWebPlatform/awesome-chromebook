@@ -167,6 +167,8 @@
 - [Why WebAssembly is a game changer for the web](https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb)
 - [WebAssembly for Native Games on the Web](https://hacks.mozilla.org/2017/07/webassembly-for-native-games-on-the-web/)
 - [Unity 5.6 was announced with experimental support for WebAssembly](https://www.reddit.com/r/javascript/comments/62vrfk/unity_56_was_announced_with_experimental_support/)
+- [The future of AutoCAD](http://through-the-interface.typepad.com/through_the_interface/2018/03/the-future-of-autocad.html)
+- [WebAssembly Studio](https://webassembly.studio)
 
 ## Chromebooks
 
