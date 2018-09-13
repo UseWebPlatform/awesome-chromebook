@@ -98,7 +98,7 @@
 ### Sketch Alternatives
 
 - [Figma](https://www.figma.com)
-  - [Material Design Kit](https://www.figma.com/file/jrPPBLsqRzBPbMwrqkJv9S/Google-Material-Design)
+  - [Material Design + Figma Styles = 🔥](https://blog.figma.com/material-design-figma-styles-98a7f0e2735e)
 - [Marvel](https://marvelapp.com)
 - [Proto](https://proto.io)
 - [Fluid](https://www.fluidui.com)
