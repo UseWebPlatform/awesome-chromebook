@@ -137,6 +137,11 @@
   - [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb) - View, edit, and create Office files in your browser.
   - [Office Apps](https://chrome.google.com/webstore/search/office?_category=apps)
 
+### Web Design
+
+- [Font Playground](https://play.typedetail.com)
+  - [Introducing Font Playground: A Pioneer Design App](https://www.youtube.com/watch?v=8coOwC13J6w)
+
 ### Web Testing
 
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Automated tool for improving the performance, quality, and correctness of your web apps.
