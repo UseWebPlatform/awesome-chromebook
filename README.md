@@ -23,6 +23,7 @@ Chromebook as development machine.
 
 - [Chromebook security](https://support.google.com/chromebook/answer/3438631)
 - [Chromebook How To: Viruses, Malware and Chrome OS Security](https://chromeunboxed.com/chromebook-how-to-viruses-malware-and-chrome-os-security/)
+- [Chromium OS Security Overview](https://www.chromium.org/chromium-os/chromiumos-design-docs/security-overview)
 - [Security of Google Chromebook](http://dhanus.mit.edu/docs/ChromeOSSecurity.pdf)
 - [2 handy yet hidden Chromebook security features](https://www.computerworld.com/article/3201944/chrome-os/chromebook-security-features.html)
 
@@ -60,7 +61,7 @@ Chromebook as development machine.
 ## Extensions
 
 - [DOM Distiller Reading Mode](https://chrome.google.com/webstore/detail/dom-distiller-reading-mod/oiembdaoobijmdmeobkalaehgifealpl)
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient blocker: easy on memory and CPU footprint.
 
 ## Themes
 
@@ -182,7 +183,6 @@ Chromebook as development machine.
 - [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo) - Xterm-compatible terminal emulator and stand-alone ssh client.
 - [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Custom themes for any website.
 - [Toby Mini](https://chrome.google.com/webstore/detail/toby-mini/gfdcgfhkelkdmglklfbndgopaihmoeci) - “I don’t want to have 3,000 tabs open anymore”.
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient blocker: easy on memory and CPU footprint.
 - [uProxy](https://www.uproxy.org) - Your private access to the open internet.
 - [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 
