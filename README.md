@@ -1,4 +1,6 @@
-# Chromebook as development machine
+# Awesome Chromebook / Chrome OS
+
+Chromebook as development machine.
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
@@ -9,6 +11,7 @@
 - [Videos](#videos)
 - [Android Apps](#android-apps)
 - [Android Games](#android-games)
+- [Linux Apps](#linux-apps)
 - [Web Apps](#web-apps)
 - [Windows Apps](#windows-apps)
 - [WebAssembly](#webassembly)
@@ -16,6 +19,8 @@
 
 ## Guides
 
+- [How to install Android Studio on Chrome OS](https://9to5google.com/2018/09/20/how-to-install-android-studio-on-chrome-os/)
+- [Set up VS Code on Chrome OS](https://blogs.sap.com/2018/10/16/set-up-vs-code-on-chrome-os-for-local-application-programming-model-development/)
 - [My $169 development Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/)
 - [Using a Chromebook for Web Development](https://blog.miguelgrinberg.com/post/using-a-chromebook-for-web-development)
 - [Ultimate guide for Web Development on Chromebook — Part 1: Crouton](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d)
@@ -52,12 +57,14 @@
 
 ## Android Apps
 
-- [Termux](https://github.com/termux/termux-app) - Terminal emulator and Linux environment app.
 - [Adobe Apps](https://play.google.com/store/apps/dev?id=4734916851270416020)
+  - [Adobe Acrobat Reader](https://play.google.com/store/apps/details?id=com.adobe.reader)
 - [Apple Apps](https://play.google.com/store/apps/developer?id=Apple+Inc.)
 - [Google Apps](https://play.google.com/store/apps/dev?id=5700313618786177705)
 - [Microsoft Apps](https://play.google.com/store/apps/dev?id=6720847872553662727)
 - [Mozilla Apps](https://play.google.com/store/apps/developer?id=Mozilla)
+- [Video Editors](https://play.google.com/store/search?q=video%20editor&c=apps)
+- [Termux](https://github.com/termux/termux-app) - Terminal emulator and Linux environment app.
 
 ## Android Games
 
@@ -65,6 +72,10 @@
 - [Gameloft Games](https://play.google.com/store/apps/dev?id=6258770168633898802)
 - [LEGO Games](https://play.google.com/store/apps/dev?id=5382307214726356149)
 - [Ubisoft Games](https://play.google.com/store/apps/dev?id=4647998716943242763)
+
+## Linux Apps
+
+- [Visual Studio Code for Chromebooks](https://code.headmelted.com)
 
 ## Web Apps
 
