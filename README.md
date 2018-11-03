@@ -95,6 +95,11 @@ Chromebook as development machine.
 - [Best Chrome Apps](https://www.tomsguide.com/us/pictures-story/611-best-chrome-apps.html)
 - [Developer Tools in Chrome Web Store](https://chrome.google.com/webstore/category/app/11-web-development)
 
+### Online IDE
+
+- [StackBlitz](https://stackblitz.com)
+- [Awesome Online IDE](https://github.com/styfle/awesome-online-ide)
+
 ### Offline Apps
 
 - [Draw.io](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla) - Completely free diagram editor.
@@ -140,6 +145,7 @@ Chromebook as development machine.
 ### Continuous Integration and Delivery
 
 - [CircleCI](https://circleci.com)
+- [Cloud Build](https://cloud.google.com/cloud-build/)
 
 ### GitHub
 
