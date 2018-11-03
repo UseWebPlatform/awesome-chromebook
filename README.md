@@ -9,6 +9,8 @@ Chromebook as development machine.
 - [DevTools](#devtools)
 - [Offline mode](#offline-mode)
 - [Videos](#videos)
+- [Extensions](#extensions)
+- [Themes](#themes)
 - [Android Apps](#android-apps)
 - [Android Games](#android-games)
 - [Linux Apps](#linux-apps)
@@ -55,6 +57,15 @@ Chromebook as development machine.
 - [Chromebook YouTube channel](https://www.youtube.com/channel/UCp-kwKlknwsPu4diieeFz1A/playlists)
 - [Chrome YouTube channel](https://www.youtube.com/user/googlechrome/videos)
 
+## Extensions
+
+- [DOM Distiller Reading Mode](https://chrome.google.com/webstore/detail/dom-distiller-reading-mod/oiembdaoobijmdmeobkalaehgifealpl)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
+## Themes
+
+- [Material Incognito Dark Theme](https://chrome.google.com/webstore/detail/material-incognito-dark-t/ahifcnpnjgbadkjdhagpfjfkmlapfoel)
+
 ## Android Apps
 
 - [Adobe Apps](https://play.google.com/store/apps/dev?id=4734916851270416020)
@@ -62,6 +73,7 @@ Chromebook as development machine.
 - [Apple Apps](https://play.google.com/store/apps/developer?id=Apple+Inc.)
 - [Google Apps](https://play.google.com/store/apps/dev?id=5700313618786177705)
 - [Microsoft Apps](https://play.google.com/store/apps/dev?id=6720847872553662727)
+  - [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android)
 - [Mozilla Apps](https://play.google.com/store/apps/developer?id=Mozilla)
 - [Video Editors](https://play.google.com/store/search?q=video%20editor&c=apps)
 - [Termux](https://github.com/termux/termux-app) - Terminal emulator and Linux environment app.
