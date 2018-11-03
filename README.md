@@ -4,9 +4,9 @@ Chromebook as development machine.
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
+- [Security on the first place](#security-on-the-first-place)
 - [Guides](#guides)
 - [DevTools](#devtools)
-- [Security on the first place](#security-on-the-first-place)
 - [Offline mode](#offline-mode)
 - [Videos](#videos)
 - [Android Apps](#android-apps)
@@ -16,6 +16,13 @@ Chromebook as development machine.
 - [Windows Apps](#windows-apps)
 - [WebAssembly](#webassembly)
 - [Chromebooks](#chromebooks)
+
+## Security on the first place
+
+- [Chromebook security](https://support.google.com/chromebook/answer/3438631)
+- [Chromebook How To: Viruses, Malware and Chrome OS Security](https://chromeunboxed.com/chromebook-how-to-viruses-malware-and-chrome-os-security/)
+- [Security of Google Chromebook](http://dhanus.mit.edu/docs/ChromeOSSecurity.pdf)
+- [2 handy yet hidden Chromebook security features](https://www.computerworld.com/article/3201944/chrome-os/chromebook-security-features.html)
 
 ## Guides
 
@@ -36,13 +43,6 @@ Chromebook as development machine.
 - [DevTools Tips](https://umaar.com/dev-tips/)
 - [DevTools: State of the Union 2017 (Google I/O '17)](https://www.youtube.com/watch?v=PjjlwAvV8Jg)
 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
-
-## Security on the first place
-
-- [Chromebook security](https://support.google.com/chromebook/answer/3438631)
-- [Chromebook How To: Viruses, Malware and Chrome OS Security](https://chromeunboxed.com/chromebook-how-to-viruses-malware-and-chrome-os-security/)
-- [Security of Google Chromebook](http://dhanus.mit.edu/docs/ChromeOSSecurity.pdf)
-- [2 handy yet hidden Chromebook security features](https://www.computerworld.com/article/3201944/chrome-os/chromebook-security-features.html)
 
 ## Offline mode
 
