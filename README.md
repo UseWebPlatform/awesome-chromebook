@@ -206,5 +206,6 @@ Chromebook as development machine.
 
 ## Chromebooks
 
-- [Google Pixelbook](https://www.google.cz/search?q=pixelbook)
+- [Google Pixel Slate](https://www.google.cz/search?q=Google+Pixel+Slate)
+- [Google Pixelbook](https://www.google.cz/search?q=Google+Pixelbook)
 - [Acer Chromebook 15 Unboxing & Hands On](https://chromeunboxed.com/acer-chromebook-15-unboxing-hands-on/)
