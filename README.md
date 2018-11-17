@@ -39,6 +39,7 @@ Chromebook as development machine.
 - [30 Chrome extensions for web designers and devs](http://www.creativebloq.com/web-design/google-chrome-extensions-21410570)
 - [27 Handy Chrome OS Commands to Run in Crosh](https://beebom.com/chrome-os-commands-run-crosh/)
 - [40 Chromebook tips for maximum productivity](https://www.computerworld.com/article/3237230/chromebooks/chromebook-tips-for-maximum-productivity.html)
+- [Remote debugging web apps running locally (in Chrome OS)](https://medium.com/@dandv/remote-debugging-web-apps-running-locally-in-chrome-os-70ebd3099455)
 
 ## DevTools
 
@@ -57,6 +58,7 @@ Chromebook as development machine.
 - [Chromebook + Creators](https://www.youtube.com/playlist?list=PLVy7dVK2S_UJwkuF4m3jKnSKeWzWy_Wrf)
 - [Chromebook YouTube channel](https://www.youtube.com/channel/UCp-kwKlknwsPu4diieeFz1A/playlists)
 - [Chrome YouTube channel](https://www.youtube.com/user/googlechrome/videos)
+- [Chrome OS: Ready for Web Development (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=QTmAtXoPkgw)
 
 ## Extensions
 
@@ -94,6 +96,7 @@ Chromebook as development machine.
 
 - [Best Chrome Apps](https://www.tomsguide.com/us/pictures-story/611-best-chrome-apps.html)
 - [Developer Tools in Chrome Web Store](https://chrome.google.com/webstore/category/app/11-web-development)
+- [SketchUp](https://app.sketchup.com)
 
 ### Online IDE
 
@@ -198,6 +201,7 @@ Chromebook as development machine.
 
 ## WebAssembly
 
+- [Using WebAssembly and Threads (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=zgOGZgAPUjQ&list=PLNYkxOF6rcIDjlCx1PcphPpmf43aKOAdF&index=20)
 - [Why WebAssembly is a game changer for the web](https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb)
 - [WebAssembly for Native Games on the Web](https://hacks.mozilla.org/2017/07/webassembly-for-native-games-on-the-web/)
 - [Unity 5.6 was announced with experimental support for WebAssembly](https://www.reddit.com/r/javascript/comments/62vrfk/unity_56_was_announced_with_experimental_support/)
