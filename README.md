@@ -81,6 +81,11 @@ Chromebook as development machine.
 - [Video Editors](https://play.google.com/store/search?q=video%20editor&c=apps)
 - [Termux](https://github.com/termux/termux-app) - Terminal emulator and Linux environment app.
 
+### Video Player
+
+- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad)
+- [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
+
 ## Android Games
 
 - [ELECTRONIC ARTS Games](https://play.google.com/store/apps/dev?id=6605125519975771237)
@@ -96,7 +101,23 @@ Chromebook as development machine.
 
 - [Best Chrome Apps](https://www.tomsguide.com/us/pictures-story/611-best-chrome-apps.html)
 - [Developer Tools in Chrome Web Store](https://chrome.google.com/webstore/category/app/11-web-development)
-- [SketchUp](https://app.sketchup.com)
+
+### Photo Editor
+
+- [Photopea](https://www.photopea.com)
+- [Pixlr](https://pixlr.com/x/)
+- [Polarr](https://www.polarr.co)
+
+### Video Editor
+
+- [Clipchamp](https://clipchamp.com)
+- [WeVideo](https://www.wevideo.com)
+
+### Draw Editor
+
+- [draw.io](https://www.draw.io)
+- [SketchUp](https://www.sketchup.com)
+  - [SketchUp Web App](https://app.sketchup.com)
 
 ### Online IDE
 
@@ -121,11 +142,6 @@ Chromebook as development machine.
 
 - [Boxy SVG](https://boxy-svg.com)
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
-
-### Photoshop Alternatives
-
-- [Photopea](https://www.photopea.com)
-- [Polarr](https://www.polarr.co)
 
 ### Sketch Alternatives
 
