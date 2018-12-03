@@ -80,6 +80,7 @@ Chromebook as development machine.
 - [Mozilla Apps](https://play.google.com/store/apps/developer?id=Mozilla)
 - [Video Editors](https://play.google.com/store/search?q=video%20editor&c=apps)
 - [Termux](https://github.com/termux/termux-app) - Terminal emulator and Linux environment app.
+- [Made For Chrome OS](https://madeforchromeos.com)
 
 ### Video Player
 
