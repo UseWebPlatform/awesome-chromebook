@@ -238,6 +238,7 @@ Chromebook as development machine.
 
 - [Find Your Laptop](https://www.google.com/chromebook/find-yours/)
 - [Google Pixel Slate](https://www.google.cz/search?q=Google+Pixel+Slate)
+  - [Review: Brydge’s G-Type keyboard for Pixel Slate solves the problems with Google’s version](https://9to5google.com/2018/11/28/review-brydge-g-type-keyboard/)
 - [Google Pixelbook](https://www.google.cz/search?q=Google+Pixelbook)
 - [Acer Chromebook Spin 13](https://www.acer.com/ac/en/US/content/professional-series/acerchromebookspin13)
 - [Acer Chromebook 514](https://www.acer.com/ac/en/US/content/series/acerchromebook514)
