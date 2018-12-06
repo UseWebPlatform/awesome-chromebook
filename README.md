@@ -90,9 +90,18 @@ Chromebook as development machine.
 ## Android Games
 
 - [ELECTRONIC ARTS Games](https://play.google.com/store/apps/dev?id=6605125519975771237)
+  - [Real Racing 3](https://play.google.com/store/apps/details?id=com.ea.games.r3_row)
 - [Gameloft Games](https://play.google.com/store/apps/dev?id=6258770168633898802)
+  - [Asphalt 9: Legends - 2018’s New Arcade Racing Game](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM)
+  - [Gangstar Vegas - mafia game](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGGHM&hl=en)
+  - [Modern Combat 5: eSports FPS](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM5HM&hl=en)
+- [Ironhide Game Studio](https://play.google.com/store/apps/dev?id=6098018911218203911)
+  - [Kingdom Rush](https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush)
 - [LEGO Games](https://play.google.com/store/apps/dev?id=5382307214726356149)
 - [Ubisoft Games](https://play.google.com/store/apps/dev?id=4647998716943242763)
+- [Vainglory 5V5](https://play.google.com/store/apps/details?id=com.superevilmegacorp.game&hl=en)
+- [Rise of Civilizations](https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp)
+- [20 of the best keyboard compatible Android games for Chrome OS](https://www.androidpolice.com/2018/06/17/20-best-keyboard-compatible-android-games-chrome-os/)
 
 ## Linux Apps
 
