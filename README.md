@@ -236,6 +236,9 @@ Chromebook as development machine.
 
 ## Chromebooks
 
+- [Find Your Laptop](https://www.google.com/chromebook/find-yours/)
 - [Google Pixel Slate](https://www.google.cz/search?q=Google+Pixel+Slate)
 - [Google Pixelbook](https://www.google.cz/search?q=Google+Pixelbook)
+- [Acer Chromebook Spin 13](https://www.acer.com/ac/en/US/content/professional-series/acerchromebookspin13)
+- [Acer Chromebook 514](https://www.acer.com/ac/en/US/content/series/acerchromebook514)
 - [Acer Chromebook 15 Unboxing & Hands On](https://chromeunboxed.com/acer-chromebook-15-unboxing-hands-on/)
