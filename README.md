@@ -220,6 +220,7 @@ Chromebook as development machine.
 - [Toby Mini](https://chrome.google.com/webstore/detail/toby-mini/gfdcgfhkelkdmglklfbndgopaihmoeci) - “I don’t want to have 3,000 tabs open anymore”.
 - [uProxy](https://www.uproxy.org) - Your private access to the open internet.
 - [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
+- [Squoosh](https://squoosh.app) - image compression
 
 ## Windows Apps
 
