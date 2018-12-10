@@ -221,6 +221,7 @@ Chromebook as development machine.
 - [uProxy](https://www.uproxy.org) - Your private access to the open internet.
 - [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 - [Squoosh](https://squoosh.app) - image compression
+- [Text Blaze](https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj) - Create smart text expansions to get more done and streamline your work.
 
 ## Windows Apps
 
